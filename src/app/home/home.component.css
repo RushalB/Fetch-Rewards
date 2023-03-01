@@ -1,0 +1,44 @@
+.main {
+	border: 5px solid #99b0a4;
+	margin: 1% auto 1% auto;
+	width: 80%;
+	padding: 5%;
+	width: 40%;
+	overflow: scroll;
+	border-radius: 10px;
+	box-shadow: 12ch;
+}
+
+.form-control {
+	background-color: #fff;
+	border-radius: 10px;
+}
+
+#reset {
+	background-color: #a2a1a1;
+}
+
+.btn-group {
+	display: flex;
+	justify-content: space-evenly;
+
+}
+
+.action-btn {
+	width: 40%;
+	border-radius: 10px;
+	font-weight: bold;
+}
+
+.action-btn:hover {
+	opacity: 0.6;
+}
+
+#heading {
+	text-align: center;
+	font-size: 2.3em;
+	justify-content: center;
+	display: flex;
+	font-weight: bold;
+
+}
